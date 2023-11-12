@@ -1,0 +1,10 @@
+//Files to ignore in the main directory
+.env
+index_ChatGPT.js
+node_modules
+node_modules/
+
+//Files to ignore within the views/places directory
+views/places/index_ChatGPT.jsx
+
+text.js
